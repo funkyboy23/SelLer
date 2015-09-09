@@ -14,6 +14,8 @@ public class myclass {
                     
         
         driver.manage().window().maximize();
+        
+        System.out.println("new test");
         //String expectedTitle = "Welcome: Mercury Tours";
         //String actualTitle = "";
        
